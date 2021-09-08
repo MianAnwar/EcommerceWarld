@@ -1,0 +1,5 @@
+D:\10x project\DataObjects\bin\Debug\DataObjects.dll
+D:\10x project\DataObjects\bin\Debug\DataObjects.pdb
+D:\10x project\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+D:\10x project\DataObjects\obj\Debug\DataObjects.dll
+D:\10x project\DataObjects\obj\Debug\DataObjects.pdb

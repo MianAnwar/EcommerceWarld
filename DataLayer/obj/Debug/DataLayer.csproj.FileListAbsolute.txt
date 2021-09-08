@@ -1,0 +1,16 @@
+D:\10x project\DataLayer\bin\Debug\DataLayer.dll.config
+D:\10x project\DataLayer\bin\Debug\DataLayer.dll
+D:\10x project\DataLayer\bin\Debug\DataLayer.pdb
+D:\10x project\DataLayer\bin\Debug\Dapper.dll
+D:\10x project\DataLayer\bin\Debug\DataObjects.dll
+D:\10x project\DataLayer\bin\Debug\EntityFramework.dll
+D:\10x project\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\10x project\DataLayer\bin\Debug\DataObjects.pdb
+D:\10x project\DataLayer\bin\Debug\Dapper.xml
+D:\10x project\DataLayer\bin\Debug\EntityFramework.xml
+D:\10x project\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\10x project\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\10x project\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\10x project\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\10x project\DataLayer\obj\Debug\DataLayer.dll
+D:\10x project\DataLayer\obj\Debug\DataLayer.pdb

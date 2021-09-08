@@ -1,0 +1,14 @@
+D:\10x project\Middleware\bin\Debug\Middleware.dll
+D:\10x project\Middleware\bin\Debug\Middleware.pdb
+D:\10x project\Middleware\bin\Debug\Dapper.dll
+D:\10x project\Middleware\bin\Debug\DataLayer.dll
+D:\10x project\Middleware\bin\Debug\DataObjects.dll
+D:\10x project\Middleware\bin\Debug\DataLayer.pdb
+D:\10x project\Middleware\bin\Debug\DataLayer.dll.config
+D:\10x project\Middleware\bin\Debug\DataObjects.pdb
+D:\10x project\Middleware\bin\Debug\Dapper.xml
+D:\10x project\Middleware\obj\Debug\Middleware.csproj.AssemblyReference.cache
+D:\10x project\Middleware\obj\Debug\Middleware.csproj.CoreCompileInputs.cache
+D:\10x project\Middleware\obj\Debug\Middleware.csproj.CopyComplete
+D:\10x project\Middleware\obj\Debug\Middleware.dll
+D:\10x project\Middleware\obj\Debug\Middleware.pdb
